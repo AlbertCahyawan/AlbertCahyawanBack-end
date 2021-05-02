@@ -1,3 +1,12 @@
-"scripts": {
-    "start": "node app.js"
+{
+    "name": "Albert Cahyawan",
+    "version": "1.0.0",
+    "description": "Helps you find the characters you are looking for",
+    "main": "server.js",
+    "dependencies": {
+       "express": "^4.16.3"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
 }
