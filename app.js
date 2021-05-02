@@ -7,5 +7,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(process.env.PORT || 4000, function () {
-    console.log('Node app is working!');
+    console.log('Node app is working now!');
 });
