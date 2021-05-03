@@ -1,10 +1,23 @@
 var express = require('express');
 var app = express();
 var path = require('path');
+const router = express.Router();
 
 app.get('/', function (req, res) {
     res.sendFile(path.join(__dirname, 'index.html'));
 });
+
+app.get('/home', (req,res) => {
+    res.send('Hello World, This is home router');
+});
+  
+app.get('/profile', (req,res) => {
+const testObj ={
+    id:1,
+    name:'albert',
+}
+res.json(testObj);
+}); 
 
 app.listen(process.env.PORT || 4000, function () {
     console.log('Node app is working now!');
