@@ -219,18 +219,21 @@ const portofolioData = [
     {
         link: "https://albertcahyawan.com/example/vueDatePicker/",
         img: "./assets/img/website-example.jpg",
+        github: "https://github.com/AlbertCahyawan" ,
         title:  "DatePicker vue",
         description: `a date picker for mobiles`
     },
     {
         link: "https://albertcahyawan.com/example/vueDatePicker/",
         img: "./assets/img/selectDatepicker-example.jpg",
+        github: "https://github.com/AlbertCahyawan" ,
         title:  "Flight DatePicker vue",
         description: `a date picker for flight for mobiles`
     },
     {
         link: "https://albertcahyawan.com/example/blog/",
         img: "./assets/img/website-gatsby-blog.png",
+        github: "https://github.com/AlbertCahyawan" ,
         title:  "Gatsby blog",
         description: `blog made out in gatsby and currently still under making for me
         practicing using react and gatsby`
@@ -238,12 +241,14 @@ const portofolioData = [
     {
         link: "https://albert-cahyawan.herokuapp.com/",
         img: "./assets/img/albert_background2.png",
+        github: "https://github.com/AlbertCahyawan" ,
         title:  "node Api",
         description: `pages for api using heroku`
-    }
+    },
     {
         link: "https://albert-cahyawan-pokemon-app.netlify.app/",
         img: "./assets/img/albert_background2.png",
+        github: "https://github.com/AlbertCahyawan" ,
         title:  "Next Js",
         description: `Pokemon pages build using next js`
     }
