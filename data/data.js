@@ -215,5 +215,33 @@ const blogData = [
     }, 
 ]
 
+const portofolioData = [
+    {
+        link: "https://albertcahyawan.com/example/vueDatePicker/",
+        img: "./assets/img/website-example.jpg",
+        title:  "DatePicker vue",
+        description: `a date picker for mobiles`
+    },
+    {
+        link: "https://albertcahyawan.com/example/vueDatePicker/",
+        img: "./assets/img/selectDatepicker-example.jpg",
+        title:  "Flight DatePicker vue",
+        description: `a date picker for flight for mobiles`
+    },
+    {
+        link: "https://albertcahyawan.com/example/blog/",
+        img: "./assets/img/website-gatsby-blog.png",
+        title:  "Gatsby blog",
+        description: `blog made out in gatsby and currently still under making for me
+        practicing using react and gatsby`
+    },
+    {
+        link: "https://albert-cahyawan.herokuapp.com/",
+        img: "./assets/img/website-gatsby-blog.png",
+        title:  "node Api",
+        description: `pages for api`
+    }
+]
 
-module.exports = { blogData };
+
+module.exports = { blogData, portofolioData };
