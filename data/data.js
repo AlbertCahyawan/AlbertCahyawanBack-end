@@ -237,9 +237,15 @@ const portofolioData = [
     },
     {
         link: "https://albert-cahyawan.herokuapp.com/",
-        img: "./assets/img/website-gatsby-blog.png",
+        img: "./assets/img/albert_background2.png",
         title:  "node Api",
-        description: `pages for api`
+        description: `pages for api using heroku`
+    }
+    {
+        link: "https://albert-cahyawan-pokemon-app.netlify.app/",
+        img: "./assets/img/albert_background2.png",
+        title:  "Next Js",
+        description: `Pokemon pages build using next js`
     }
 ]
 
