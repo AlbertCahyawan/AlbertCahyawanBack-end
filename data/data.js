@@ -240,14 +240,14 @@ const portofolioData = [
     },
     {
         link: "https://albert-cahyawan.herokuapp.com/",
-        img: "./assets/img/albert_background2.png",
+        img: "./assets/img/albert_background.png",
         github: "https://github.com/AlbertCahyawan" ,
         title:  "node Api",
         description: `pages for api using heroku`
     },
     {
         link: "https://albert-cahyawan-pokemon-app.netlify.app/",
-        img: "./assets/img/albert_background2.png",
+        img: "./assets/img/albert_background.png",
         github: "https://github.com/AlbertCahyawan" ,
         title:  "Next Js",
         description: `Pokemon pages build using next js`
