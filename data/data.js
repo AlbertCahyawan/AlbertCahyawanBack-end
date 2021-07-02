@@ -216,20 +216,20 @@ const blogData = [
 ]
 
 const portofolioData = [
-    {
-        link: "https://albertcahyawan.com/example/vueDatePicker/",
-        img: "./assets/img/website-example.jpg",
-        github: "https://github.com/AlbertCahyawan" ,
-        title:  "DatePicker vue",
-        description: `a date picker for mobiles`
-    },
-    {
-        link: "https://albertcahyawan.com/example/vueDatePicker/",
-        img: "./assets/img/selectDatepicker-example.jpg",
-        github: "https://github.com/AlbertCahyawan" ,
-        title:  "Flight DatePicker vue",
-        description: `a date picker for flight for mobiles`
-    },
+    // {
+    //     link: "https://albertcahyawan.com/example/vueDatePicker/",
+    //     img: "./assets/img/website-example.jpg",
+    //     github: "https://github.com/AlbertCahyawan" ,
+    //     title:  "DatePicker vue",
+    //     description: `a date picker for mobiles`
+    // },
+    // {
+    //     link: "https://albertcahyawan.com/example/vueDatePicker/",
+    //     img: "./assets/img/selectDatepicker-example.jpg",
+    //     github: "https://github.com/AlbertCahyawan" ,
+    //     title:  "Flight DatePicker vue",
+    //     description: `a date picker for flight for mobiles`
+    // },
     {
         link: "https://albertcahyawan.com/example/blog/",
         img: "./assets/img/website-gatsby-blog.png",
