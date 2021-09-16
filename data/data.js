@@ -242,8 +242,8 @@ const portofolioData = [
         link: "https://albert-cahyawan.herokuapp.com/",
         img: "./assets/img/albert_background.png",
         github: "https://github.com/AlbertCahyawan" ,
-        title:  "node Api",
-        description: `pages for api using heroku`
+        title:  "node Api (backend)",
+        description: `pages for api link using heroku`
     },
     {
         link: "https://albert-cahyawan-pokemon-app.netlify.app/",
