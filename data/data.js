@@ -233,7 +233,7 @@ const portofolioData = [
     {
         link: "https://albertcahyawan.com/example/blog/",
         img: "./assets/img/website-gatsby-blog.png",
-        github: "https://github.com/AlbertCahyawan" ,
+        github: "https://github.com/AlbertCahyawan/albert-gatsby-blog" ,
         title:  "Gatsby blog",
         description: `blog made out in gatsby and currently still under making for me
         practicing using react and gatsby`
@@ -241,14 +241,14 @@ const portofolioData = [
     {
         link: "https://albert-cahyawan.herokuapp.com/",
         img: "./assets/img/albert_background.png",
-        github: "https://github.com/AlbertCahyawan" ,
+        github: "https://github.com/AlbertCahyawan/AlbertCahyawanBack-end" ,
         title:  "node Api (backend)",
         description: `pages for api link using heroku`
     },
     {
         link: "https://albert-cahyawan-pokemon-app.netlify.app/",
         img: "./assets/img/albert_background.png",
-        github: "https://github.com/AlbertCahyawan" ,
+        github: "https://github.com/AlbertCahyawan/pokemon-app" ,
         title:  "Next Js",
         description: `Pokemon pages build using next js`
     }
